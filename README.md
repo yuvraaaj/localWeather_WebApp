@@ -6,4 +6,4 @@ Implemented **OpenWeatherMap API** *( https://openweathermap.org/current )* for 
 
 **Guidelines for adding Weather Icons** @ StackOverflow *(https://stackoverflow.com/a/62369654/10552501)*
 
-Also implemented Heroku's API *(https://cors-anywhere.herokuapp.com/)* for enabling Cross-Origin Requests to run the Application in Local Server. 
+Also implemented Heroku's API *(https://cors-anywhere.herokuapp.com/)* for enabling Cross-Origin Requests to run the Application on Local Server. 
